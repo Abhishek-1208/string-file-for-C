@@ -20,7 +20,8 @@ just simply download string.h and string.c file in your computer and you're done
 <br>
 <br>
 <hr>
-### Working: 
+
+# Working: 
 
 #### Initialization: 
 
