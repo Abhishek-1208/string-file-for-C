@@ -152,18 +152,18 @@ Task: append the character array temp to the end of string str.<br>
 Syntax: append_char_stream(str, temp);<br>
 return value: void;<br>
 </pre>
-##### 12. copy_string(struct string *str, struct string *temp);
+##### 12. assign_string(struct string *str, struct string *temp);
 <pre>
 
 Task: str = temp;<br>
-Syntax: copy_string(str, temp);<br>
+Syntax: assign_string(str, temp);<br>
 return value: void;<br>
 </pre>
-##### 13. copy_char_stream(struct string *str, char *temp);
+##### 13. assign_char_stream(struct string *str, char *temp);
 <pre>
 
 Task: str = temp;<br>
-Syntax: copy_char_stream(str, temp);<br>
+Syntax: assign_char_stream(str, temp);<br>
 return value: void;<br>
 </pre>
 ##### 14. reverse(struct string *str);
