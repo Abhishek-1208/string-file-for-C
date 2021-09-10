@@ -58,11 +58,11 @@ void append_char_stream(struct string *str, char *temp);
 
 
 // this function is equivalent of doing str = temp;
-void copy_string(struct string *str, struct string *temp);
+void assign_string(struct string *str, struct string *temp);
 
 
 // this function is equivalent of doing str = "Abhishek";
-void copy_char_stream(struct string *str, char *temp);
+void assign_char_stream(struct string *str, char *temp);
 
 
 // to reverse the passed string
